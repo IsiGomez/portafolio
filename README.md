@@ -4,7 +4,7 @@
 
 Portafolio de **DSY1104 – Desarrollo Fullstack II, Evaluación Formativa N° 2**: componentes React reutilizables, componentes de Bootstrap, datos cargados desde JSON y pruebas unitarias con Vitest.
 
-**Sitio publicado:** https://isigomez.github.io/Portafolio/
+**Sitio publicado:** https://isigomez.github.io/portafolio/
 
 ## Tecnologías
 
